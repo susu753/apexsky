@@ -127,7 +127,7 @@ Additional information:
 3. Press Insert to open the Overlay menu. Press and hold the Insert key to temporarily interact with the overlay.
 4. If you are using a resolution other than 1080p, save the configuration and then modify the `screen_width` and `screen_height` in *settings.toml* and reload the configuration.
 
-Click on *[Actions](https://github.com/chettoy/apexsky/actions)* to download the auto-built artifacts.
+Click on *[Actions](https://github.com/susu753/apexsky/actions)* to download the auto-built artifacts.
 
 Or compile it yourself.
 
